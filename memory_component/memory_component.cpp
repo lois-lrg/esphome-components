@@ -1,4 +1,4 @@
-#Code from : https://github.com/ayufan/esphome-components
+// Code from : https://github.com/ayufan/esphome-components
 
 #include "memory_component.h"
 #include "esphome/core/log.h"
