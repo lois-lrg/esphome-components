@@ -10,7 +10,7 @@ external_components:
   - source: github://lois-lrg/esphome-components
 ```
 
-##Memory
+## Memory
 Simple component that periodically prints free memory of node.
 
 ```yaml
