@@ -1,4 +1,4 @@
-#Code from : https://github.com/ayufan/esphome-components
+# Code from : https://github.com/ayufan/esphome-components
 
 import esphome.config_validation as cv
 import esphome.codegen as cg
