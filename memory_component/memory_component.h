@@ -1,3 +1,5 @@
+// Code from : https://github.com/ayufan/esphome-components
+
 #pragma once
 
 #include "esphome/core/component.h"
