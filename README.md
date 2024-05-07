@@ -9,3 +9,10 @@ with external components and add this to your `.yaml` definition:
 external_components:
   - source: github://lois-lrg/esphome-components
 ```
+
+##Memory
+Simple component that periodically prints free memory of node.
+
+```yaml
+memory:
+```
